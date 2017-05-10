@@ -1,5 +1,4 @@
 import string
-
 # Returns a list of the first 10 letters of the alphabet.
 my_list1 = list(string.ascii_lowercase[0:10])
 print("my_list1:")
